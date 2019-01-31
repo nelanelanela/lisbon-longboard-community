@@ -37,8 +37,8 @@ module.exports = {
         yandex: false,
         windows: false
       }
-    }
-  }
+    },
+  },
 
     `gatsby-plugin-react-helmet`,
     {
