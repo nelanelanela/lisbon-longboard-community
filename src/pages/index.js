@@ -16,7 +16,7 @@ const IndexPage = () => (
     <h2> </h2>
     <h2> </h2>
     <h2>See you there!</h2>
-    <div style={{ maxWidth: `500px`, marginBottom: `1.45rem` }}>
+    <div style={{ maxWidth: `800px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
   </Layout>
