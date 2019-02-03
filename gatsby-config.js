@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Lisbon longboard community`,
     description: `Hi! Welcome to the community of Lisbon Longboarders! We're hosting a meetup every two weeks. If you're from around or passing by Lisboa - join us!`,
-      author: `@nelanelanela`,
+    author: `@nelanelanela`,
   },
   plugins: [
   // in gatsby-config.js
