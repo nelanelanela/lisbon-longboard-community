@@ -10,7 +10,6 @@ const IndexPage = () => (
     <h1>Hi 👋🏼</h1>
     <p>Welcome to the community of Lisbon Longboarders! We're hosting a meetup every two weeks. If you're from around or passing by Lisboa - join us!</p>
     <h2>Next events:</h2>
-    <a href="https://www.facebook.com/events/402676977173670/">16.02.2019  Alcantara-Mar  15:00</a>
     <p></p>
     <a href="https://www.facebook.com/events/584751411986914/">2.03.2019  Alcantara-Mar  15:00</a>
     <h2> </h2>
